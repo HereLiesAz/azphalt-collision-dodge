@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-collision-dodge",
+  "id": "com.hereliesaz.azphalt.collision-dodge",
   "name": "Collision Dodge",
   "version": "1.0.0",
   "kind": "asset",
