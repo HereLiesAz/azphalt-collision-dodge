@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Moves the layer out of the way of whatever the tracker is following, so a caption never ends up sitting on top of a detected object.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
